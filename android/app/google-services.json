@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979182963538",
+    "project_id": "globe-care-6b8d8",
+    "storage_bucket": "globe-care-6b8d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979182963538:android:0d1cf7ee4e8671ebc3c88b",
+        "android_client_info": {
+          "package_name": "com.globcare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979182963538-4bjgvld6fcrbu7q32vplmb99riq979e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByGoY7zOIIdvmkf1wpYn_ldjfmaiWSJOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979182963538-4bjgvld6fcrbu7q32vplmb99riq979e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="190" viewBox="0 0 320 190">
+  <defs>
+    <filter id="Mask" x="-30" y="-25" width="380" height="250" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#e5ad01" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask)">
+        <path id="Mask-2" data-name="Mask" d="M10,0H310a10,10,0,0,1,10,10V180a10,10,0,0,1-10,10H10A10,10,0,0,1,0,180V10A10,10,0,0,1,10,0Z" fill="#ffc71b"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Group" clip-path="url(#clip-path)">
+    <g id="Group-2" data-name="Group" transform="translate(153 -7)">
+      <path id="Path_2" data-name="Path 2" d="M0,157.3s31.336-50.11,71.1-50.11,23.96-42.342,59.144-54.476,40.233-32.189,40.233-32.189L179.567,0V161.6Z" transform="translate(0.292 49.287)" fill="#bbcde7" opacity="0.41"/>
+      <path id="Path_4" data-name="Path 4" d="M0,196.641s10.636-20.034,44.093-24.585,28.779-23.705,40.38-51.879,46.349-20.625,48.716-95.728,4.461,80.508,4.461,80.508l-4.461,104.573Z" transform="translate(35.811 0.359)" fill="#f5f8fb" opacity="0.43"/>
+    </g>
+  </g>
+</svg>

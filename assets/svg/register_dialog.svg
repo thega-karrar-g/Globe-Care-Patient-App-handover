@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="229.858" height="229.858" viewBox="0 0 229.858 229.858">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c6d4"/>
+      <stop offset="1" stop-color="#007aa5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#094f87"/>
+      <stop offset="1" stop-color="#00247f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_526" data-name="Group 526" transform="translate(-31.56 -128.56)">
+    <path id="Path_3432" data-name="Path 3432" d="M114.929,0A114.929,114.929,0,1,1,0,114.929,114.929,114.929,0,0,1,114.929,0Z" transform="translate(31.56 128.56)" fill="url(#linear-gradient)"/>
+    <path id="Path_669" data-name="Path 669" d="M90.944,0A90.944,90.944,0,1,1,0,90.944,90.944,90.944,0,0,1,90.944,0Z" transform="translate(55.545 152.545)" fill="url(#linear-gradient-2)"/>
+    <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M22.446,52.89.968,31.412a3.3,3.3,0,0,1,0-4.673l4.673-4.673a3.3,3.3,0,0,1,4.673,0L24.782,36.535l30.99-30.99a3.3,3.3,0,0,1,4.673,0l4.673,4.673a3.3,3.3,0,0,1,0,4.673l-38,38A3.3,3.3,0,0,1,22.446,52.89Z" transform="translate(113.081 213.856)" fill="#fff"/>
+  </g>
+</svg>

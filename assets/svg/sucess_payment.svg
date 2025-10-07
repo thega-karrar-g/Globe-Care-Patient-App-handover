@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="icon" transform="translate(-147 -278)">
+    <g id="BG">
+      <circle id="Ellipse_25" data-name="Ellipse 25" cx="40" cy="40" r="40" transform="translate(147 278)" fill="#00b3cd"/>
+    </g>
+    <g id="icon-2" data-name="icon">
+      <path id="Vector" d="M33.333,11.667V28.333A1.667,1.667,0,0,1,31.667,30h-30A1.667,1.667,0,0,1,0,28.333V11.667Zm0-3.333H0V1.667A1.667,1.667,0,0,1,1.667,0h30a1.667,1.667,0,0,1,1.667,1.667ZM21.667,21.667V25h6.667V21.667Z" transform="translate(170 303)" fill="#fff"/>
+    </g>
+    <g id="check_mark" data-name="check mark">
+      <circle id="Ellipse_26" data-name="Ellipse 26" cx="10" cy="10" r="10" transform="translate(205 279)" fill="#94cc00"/>
+      <path id="Vector-2" data-name="Vector" d="M0,2.5,2.5,5l5-5" transform="translate(211 287)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,1 +1,3 @@
-# Globe-Care-Patient-App-handover
+# globcare_patient
+
+This is the patient app for Globcare

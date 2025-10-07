@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="330" viewBox="0 0 330 330">
+  <g id="Group_327" data-name="Group 327" transform="translate(-49 -242)">
+    <circle id="Ellipse_81" data-name="Ellipse 81" cx="165" cy="165" r="165" transform="translate(49 242)" fill="#fff" opacity="0.07"/>
+    <circle id="Ellipse_82" data-name="Ellipse 82" cx="138" cy="138" r="138" transform="translate(76 269)" fill="#fff" opacity="0.07"/>
+    <circle id="Ellipse_83" data-name="Ellipse 83" cx="107" cy="107" r="107" transform="translate(107 300)" fill="#fff" opacity="0.07"/>
+    <g id="Icon_feather-check-circle" data-name="Icon feather-check-circle" transform="translate(169.426 362.432)">
+      <path id="Path_1782" data-name="Path 1782" d="M44.737,90.614A46.05,46.05,0,0,1,9.55,14.632,46.346,46.346,0,0,1,63.327,2.482,4.5,4.5,0,1,1,59.664,10.7,37.075,37.075,0,0,0,13.473,64.746,37.075,37.075,0,0,0,81.649,44.589V40.766a4.5,4.5,0,0,1,9,0v3.825a46.347,46.347,0,0,1-33.011,44.16A45.473,45.473,0,0,1,44.737,90.614Z" transform="translate(0)" fill="#fff"/>
+      <path id="Path_1783" data-name="Path 1783" d="M25.972,52.116A4.5,4.5,0,0,1,22.79,50.8L10.318,38.326a4.5,4.5,0,0,1,6.364-6.364l9.289,9.289L64.363,2.82A4.5,4.5,0,1,1,70.73,9.18L29.156,50.8A4.471,4.471,0,0,1,25.972,52.116Z" transform="translate(18.602 5.331)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+class AppAnim {
+  static const loader = 'assets/anim/loader.json';
+  static const loaderGetData = 'assets/anim/loader_get_data.json';
+  static const lottieProgress = 'assets/anim/heart_progress.json';
+  static const lottieLoading = 'assets/anim/loading.json';
+  static const lottieLoading2 = 'assets/anim/loading3.json';
+  static const lottieLoading3 = 'assets/anim/loading3.json';
+  static const search = 'assets/anim/search.json';
+  static const success = 'assets/anim/success.json';
+  static const success2 = 'assets/anim/success2.json';
+  static const paymentSuccess = 'assets/anim/payment_success.json';
+  static const paymentFailed = 'assets/anim/payment_failed.json';
+  static const paymentLoading = 'assets/anim/payment_loading.json';
+  static const noNotification = 'assets/anim/no_notification.json';
+  static const noNotification2 = 'assets/anim/no_notification2.json';
+  static const noNotification3 = 'assets/anim/no_notification3.json';
+  static const calenderFull = 'assets/anim/calender_full.json';
+  static const noFilesFound = 'assets/anim/no_files_found.json';
+  static const noAppointmentFound = 'assets/anim/no_appointment_found.json';
+  static const noPaymentRequests = 'assets/anim/no_payment_requests.json';
+  static const noDoctor = 'assets/anim/no_doctor.json';
+  static const updateAndroid = 'assets/anim/update_android.json';
+  static const updateIOS = 'assets/anim/update_ios.json';
+  static const waitVerifyCode = 'assets/anim/wait_verify_code.json';
+  static const waitingClock = 'assets/anim/waiting_clock.json';
+  static const noMembers = 'assets/anim/no_members.json';
+  static const payNow = 'assets/anim/pay_now.json';
+  static const noInternet = 'assets/anim/no_internet.json';
+  static const swipeUp = 'assets/anim/swipe_up.json';
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.682" height="23.637" viewBox="0 0 20.682 23.637">
+  <g id="Group_1343" data-name="Group 1343" transform="translate(-251 -758.182)">
+    <path id="Icon_awesome-calendar" data-name="Icon awesome-calendar" d="M.554,8.864H20.128a.556.556,0,0,1,.554.554v12a2.217,2.217,0,0,1-2.216,2.216H2.216A2.217,2.217,0,0,1,0,21.421v-12A.556.556,0,0,1,.554,8.864ZM20.682,6.832V5.171a2.217,2.217,0,0,0-2.216-2.216H16.25V.554A.556.556,0,0,0,15.7,0H13.85A.556.556,0,0,0,13.3.554v2.4H7.386V.554A.556.556,0,0,0,6.832,0H4.986a.556.556,0,0,0-.554.554v2.4H2.216A2.217,2.217,0,0,0,0,5.171V6.832a.556.556,0,0,0,.554.554H20.128A.556.556,0,0,0,20.682,6.832Z" transform="translate(251 758.182)" fill="#bbcde7"/>
+    <ellipse id="Ellipse_137" data-name="Ellipse 137" cx="1.197" cy="1.197" rx="1.197" ry="1.197" transform="translate(260.144 770)" fill="#fff"/>
+    <ellipse id="Ellipse_138" data-name="Ellipse 138" cx="1.197" cy="1.197" rx="1.197" ry="1.197" transform="translate(256.154 770)" fill="#fff"/>
+    <ellipse id="Ellipse_139" data-name="Ellipse 139" cx="1.197" cy="1.197" rx="1.197" ry="1.197" transform="translate(264.134 770)" fill="#fff"/>
+  </g>
+</svg>

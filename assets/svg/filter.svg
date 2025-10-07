@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="46" viewBox="0 0 47 46">
+  <g id="filtter" transform="translate(0.077 -0.462)">
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="23.5" cy="23" rx="23.5" ry="23" transform="translate(-0.077 0.462)" fill="#5581c4"/>
+    <g id="icon" transform="translate(15.015 15.954)">
+      <path id="Vector" d="M6.827,0H1.273A1.263,1.263,0,0,0,0,1.251,1.264,1.264,0,0,0,1.273,2.5H6.827A1.264,1.264,0,0,0,8.1,1.251,1.263,1.263,0,0,0,6.827,0Z" transform="translate(0 10.944)" fill="#fff" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M8.1,1.25A1.263,1.263,0,0,0,6.827,0H1.274A1.263,1.263,0,0,0,0,1.25,1.263,1.263,0,0,0,1.274,2.5H6.827A1.263,1.263,0,0,0,8.1,1.25Z" transform="translate(8.792 1.603)" fill="#fff" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M5.809,2.854A2.879,2.879,0,0,1,2.9,5.708,2.88,2.88,0,0,1,0,2.854,2.88,2.88,0,0,1,2.9,0,2.879,2.879,0,0,1,5.809,2.854Z" fill="#fff"/>
+      <path id="Vector-4" data-name="Vector" d="M5.809,2.854A2.879,2.879,0,0,1,2.9,5.708,2.88,2.88,0,0,1,0,2.854,2.88,2.88,0,0,1,2.9,0,2.879,2.879,0,0,1,5.809,2.854Z" transform="translate(11.083 9.307)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

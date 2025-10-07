@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="277" height="812" viewBox="0 0 277 812">
+  <defs>
+    <filter id="Rectangle_853" x="-125.5" y="-148.5" width="574" height="1109" filterUnits="userSpaceOnUse">
+      <feOffset dx="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-color="#5581c4" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask" x="-117" y="520" width="482" height="315" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#e5ad01" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask-2" x="-61" y="-53" width="490" height="319" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="#e5ad01" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_853)">
+        <path id="Rectangle_853-2" data-name="Rectangle 853" d="M0,0H196a81,81,0,0,1,81,81V731a81,81,0,0,1-81,81H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#5581c4"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask)">
+        <path id="Mask-3" data-name="Mask" d="M10,0H412a10,10,0,0,1,10,10V245a10,10,0,0,1-10,10H10A10,10,0,0,1,0,245V10A10,10,0,0,1,10,0Z" transform="translate(0.64 -0.1)" fill="#ffc71b"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask-2)">
+        <path id="Mask-4" data-name="Mask" d="M10,0H420a10,10,0,0,1,10,10V249a10,10,0,0,1-10,10H10A10,10,0,0,1,0,249V10A10,10,0,0,1,10,0Z" transform="translate(430.43 259) rotate(180)" fill="#ffc71b"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_20" data-name="Mask Group 20" clip-path="url(#clip-path)" style="mix-blend-mode: overlay;isolation: isolate">
+    <g id="Group_1301" data-name="Group 1301" transform="translate(-307.451 -28)">
+      <g id="Group" transform="translate(219.811 573.098)" clip-path="url(#clip-path-2)">
+        <g id="Group-2" data-name="Group" transform="translate(244.405 -108.294) rotate(30)">
+          <path id="Path_2" data-name="Path 2" d="M0,333.371s65.234-106.2,148.005-106.2,49.879-89.738,123.124-115.455S354.885,43.5,354.885,43.5L373.82,0V342.48Z" transform="translate(-2.907 54.223) rotate(7)" fill="#bbcde7" opacity="0.41"/>
+          <path id="Path_4" data-name="Path 4" d="M0,408.346s22.141-42.459,91.792-52.1S151.7,306,175.854,246.29,272.342,202.578,277.27,43.407s9.288,170.625,9.288,170.625L277.27,435.659Z" transform="translate(79.33 -40.14) rotate(7)" fill="#f5f8fb" opacity="0.43"/>
+        </g>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(276.018)" clip-path="url(#clip-path-3)">
+        <g id="Group-4" data-name="Group" transform="translate(-16.93 -20.573)">
+          <path id="Path_2-2" data-name="Path 2" d="M0,215.177s42.106-68.548,95.531-68.548S127.726,88.707,175,72.108s54.061-44.033,54.061-44.033L241.284,0V221.055Z" transform="translate(241.284 221.055) rotate(180)" fill="#bbcde7" opacity="0.41"/>
+          <path id="Path_4-2" data-name="Path 4" d="M0,263.569s14.291-27.406,59.248-33.631,38.67-32.428,54.258-70.968,62.279-28.214,65.459-130.952,5.995,110.131,5.995,110.131L178.965,281.2Z" transform="translate(193.557 282.561) rotate(180)" fill="#f5f8fb" opacity="0.43"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,2 @@
+D:/projects/globcare/Shifa-Mobile-App/android/app/.cxx/RelWithDebInfo/6i1u3b34/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/projects/globcare/Shifa-Mobile-App/android/app/.cxx/RelWithDebInfo/6i1u3b34/arm64-v8a/CMakeFiles/rebuild_cache.dir

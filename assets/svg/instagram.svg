@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="50.26" viewBox="0 0 41 50.26">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.372" cy="1.001" r="1.247" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd5"/>
+      <stop offset="0.328" stop-color="#ff543f"/>
+      <stop offset="0.348" stop-color="#fc5245"/>
+      <stop offset="0.504" stop-color="#e64771"/>
+      <stop offset="0.643" stop-color="#d53e91"/>
+      <stop offset="0.761" stop-color="#cc39a4"/>
+      <stop offset="0.841" stop-color="#c837ab"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.161" cy="-0.012" r="0.828" gradientTransform="translate(0 -0.004) scale(1 0.666)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4168c9"/>
+      <stop offset="0.999" stop-color="#4168c9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_7259" data-name="Group 7259" transform="translate(-210 -261.74)">
+    <rect id="Rectangle_1209" data-name="Rectangle 1209" width="41" height="3" rx="1.5" transform="translate(210 309)" fill="#c73ea1"/>
+    <g id="icons8_Instagram_3" transform="translate(207.554 255.75)">
+      <path id="Path_8026" data-name="Path 8026" d="M32.252,39.723l-18.741.018a7.519,7.519,0,0,1-7.5-7.489L5.99,13.512a7.519,7.519,0,0,1,7.489-7.5L32.219,5.99a7.519,7.519,0,0,1,7.5,7.489l.018,18.741A7.517,7.517,0,0,1,32.252,39.723Z" fill="url(#radial-gradient)"/>
+      <path id="Path_8027" data-name="Path 8027" d="M32.252,39.723l-18.741.018a7.519,7.519,0,0,1-7.5-7.489L5.99,13.512a7.519,7.519,0,0,1,7.489-7.5L32.219,5.99a7.519,7.519,0,0,1,7.5,7.489l.018,18.741A7.517,7.517,0,0,1,32.252,39.723Z" fill="url(#radial-gradient-2)"/>
+      <path id="Path_8028" data-name="Path 8028" d="M23.559,30.118a6.559,6.559,0,1,1,6.559-6.559A6.567,6.567,0,0,1,23.559,30.118Zm0-11.244a4.685,4.685,0,1,0,4.685,4.685A4.69,4.69,0,0,0,23.559,18.874Z" transform="translate(-0.693 -0.693)" fill="#fff"/>
+      <circle id="Ellipse_206" data-name="Ellipse 206" cx="1.406" cy="1.406" r="1.406" transform="translate(28.488 14.433)" fill="#fff"/>
+      <path id="Path_8029" data-name="Path 8029" d="M28.8,35.363H17.559A6.567,6.567,0,0,1,11,28.8V17.559A6.567,6.567,0,0,1,17.559,11H28.8a6.567,6.567,0,0,1,6.559,6.559V28.8A6.567,6.567,0,0,1,28.8,35.363ZM17.559,12.874a4.69,4.69,0,0,0-4.685,4.685V28.8a4.69,4.69,0,0,0,4.685,4.685H28.8A4.69,4.69,0,0,0,33.489,28.8V17.559A4.69,4.69,0,0,0,28.8,12.874Z" transform="translate(-0.315 -0.315)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

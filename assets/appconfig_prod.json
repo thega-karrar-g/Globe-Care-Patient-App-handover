@@ -1,0 +1,6 @@
+{
+  "merchantKey":"060325f6746b4003ab20ef32f06d9fa6ee0b06d92029ddd856dd375c06c2de3a",
+  "terminalId":  "globcare",
+  "terminalPass": "globcareURWAY@275",
+  "requestUrl":"https://payments.urway-tech.com/URWAYPGService/transaction/jsonProcess/JSONrequest"
+}

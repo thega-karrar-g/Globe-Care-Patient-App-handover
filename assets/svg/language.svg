@@ -1,0 +1,15 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.07" height="100" viewBox="0 0 96.07 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#32b0f2"/>
+      <stop offset="1" stop-color="#0012b5"/>
+    </linearGradient>
+  </defs>
+  <g id="_1" data-name="1">
+    <g id="language">
+      <g id="Path_460" data-name="Path 460">
+        <path id="Path_11038" data-name="Path 11038" d="M48,0C21.5,0,0,22.38,0,50s21.5,50,48,50S96,77.6,96.07,50,74.58,0,48,0ZM87.63,45.73h-18A71.94,71.94,0,0,0,57.68,9.83C73.7,14,85.89,28.25,87.63,45.73Zm-26.32,0H34.77A62.55,62.55,0,0,1,48,10.94,62.55,62.55,0,0,1,61.31,45.73ZM38.43,9.83a72,72,0,0,0-11.95,35.9h-18C10.21,28.22,22.38,14,38.43,9.83Zm-30,44.49h18a71.77,71.77,0,0,0,12,35.87C22.38,86.07,10.21,71.8,8.45,54.32Zm26.32,0H61.31A62.87,62.87,0,0,1,48,89.08,62.87,62.87,0,0,1,34.77,54.32ZM57.68,90.19A71.73,71.73,0,0,0,69.6,54.32H87.66C85.92,71.8,73.73,86,57.68,90.19Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

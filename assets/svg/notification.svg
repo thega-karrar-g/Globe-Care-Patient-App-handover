@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.005" height="27.225" viewBox="0 0 19.005 27.225">
+  <g id="Component_27_46" data-name="Component 27 – 46" transform="translate(0.5)">
+    <g id="notification" transform="translate(0 5.542)">
+      <path id="Vector" d="M9,16.785c5.973,0,8.736-.766,9-3.842,0-3.073-1.926-2.876-1.926-6.647C16.079,3.351,13.287,0,9,0S1.926,3.351,1.926,6.3C1.926,10.068,0,9.87,0,12.943.268,16.03,3.031,16.785,9,16.785Z" transform="translate(0)" fill="none" stroke="#94cc00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-2" data-name="Vector" d="M5.157,0A3.352,3.352,0,0,1,0,0" transform="translate(6.376 19.973)" fill="none" stroke="#94cc00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <text id="_3" data-name="3" transform="translate(14.062 8)" fill="#fff" font-size="7" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+  </g>
+</svg>
